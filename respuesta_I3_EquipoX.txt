@@ -1,0 +1,17 @@
+a-¿Como queda El master después de estos cambios?
+La rama main queda igual que la rama Zalazar:
+beta.txt
+CPUAlfa.txt
+CPUBeta.txt
+CPUGamma.txt
+datos.txt
+README.md
+b-¿Beta pudo ver todos los cambios que se realizaron?
+Si, Beta pudo ver los cambios que se realizaron.
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+Los comandos son:
+git checkout main
+git merge castelli
+git add .
+git commit -m "punto 5"
+git push origin main
