@@ -32,3 +32,23 @@ Adaptador de LAN inal mbrica Wi-Fi:
    Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.114
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Felix Castelli 00:25
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::b25a:cd31:e167:789b%8
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : fibertel.com.ar
+   Link-local IPv6 Address . . . . . : fe80::2065:aa53:a806:3c03%13
+   IPv4 Address. . . . . . . . . . . : 192.168.0.163
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
